@@ -6,7 +6,7 @@ In this project, we aimed to design a deep learning model based on the ResNet ar
 
 ## Code
 
-To run the code, simply open the `dl_miniproject.ipynb` file in the `code` folder with Jupyter Notebook.
+To run the code, simply open the `miniproject.ipynb` file in the `code` folder with Jupyter Notebook.
 
 ## Results
 
